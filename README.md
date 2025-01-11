@@ -1,3 +1,8 @@
+[![Blue ribbon for Internet free speech](/img/rib_bar_trn-n-blk.png)](https://web.archive.org/web/19971024171609/http://www.eff.org/blueribbon.html)
+*On [**Wednesday, January 15, 2025**](https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-1122.html), please [remember 1997](https://web.archive.org/web/19971114041230/http://www.eff.org/pub/Legal/Cases/ACLU_v_Reno/19970626_eff_cda.announce).*
+
+* * *
+
 I `=` **impurify**, a.k.a. **[have@anonymous.sex](mailto:have@anonymous.sex)**.
 
 Get in touch:
