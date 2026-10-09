@@ -1,10 +1,11 @@
-IMP=${HOME}/impurify
-.OBJDIR: ${.CURDIR:S,^${IMP},${IMP}/docs,}
+# This is set by a shell script:
+#IMP=${HOME}/impurify # or whatever it is now.
+.include "dirty.mk"
 
-DUTR=${.CURDIR}/dutr
+EXT=${IMP}/dutr
 
 all: \
 	.nojekyll
 
-.nojekyll: ${DUTR}/.nojekyll
+.nojekyll: ${EXT}/.nojekyll
 	cp -p $> $@
