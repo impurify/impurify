@@ -4,7 +4,7 @@
 
 EXT=${IMP}/dutr
 
-SUBDIR=etc
+#SUBDIR=etc
 
 all: \
 	.nojekyll
@@ -12,4 +12,4 @@ all: \
 .nojekyll: ${EXT}/.nojekyll
 	cp -p $> $@
 
-.include <bsd.subdir.mk>
+#.include <bsd.subdir.mk>
