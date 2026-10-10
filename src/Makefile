@@ -15,7 +15,7 @@ IMPUREASC=${IMP}/docs/etc/impurify-pgp.asc
 
 index.html: index.src ${HTEMPLATE}
 	lowdown ${LOWDOWN_FLAGS} \
-		-m "pgpfile=`realpath --relative-to=. ${IMPUREASC}`" \
+		-m "pgpfile=etc/impurify-pgp.asc" \
 		--template ${HTEMPLATE} \
 		< ${.CURDIR}/index.src \
 		| \
