@@ -1,0 +1,8 @@
+# The first Internet Archive snapshot of *my* impurify.com:
+
+https://web.archive.org/web/20261010145231/https://impurify.com/
+
+Last snapshot was in August 2024.  Some domain speculator’s ad/traffic lander:
+https://web.archive.org/web/20240827132449/https://impurify.com/
+redirects to (not archived):
+https://web.archive.org/web/20240827130321/https://impurify.com/lander
