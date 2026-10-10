@@ -7,7 +7,20 @@ EXT=${IMP}/dutr
 #SUBDIR=etc
 
 all: \
-	.nojekyll
+	.nojekyll \
+	index.html
+
+HTEMPLATE=${.CURDIR}/../templates/impure-home.html
+IMPUREASC=${IMP}/docs/etc/impurify-pgp.asc
+
+index.html: index.src ${HTEMPLATE}
+	lowdown ${LOWDOWN_FLAGS} \
+		-m "pgpfile=`realpath --relative-to=. ${IMPUREASC}`" \
+		--template ${HTEMPLATE} \
+		< ${.CURDIR}/index.src \
+		| \
+	sed -r -e 's/<!--#([^#]*)#-->/<\1>/g' | \
+	katex > $@
 
 .nojekyll: ${EXT}/.nojekyll
 	cp -p $> $@
