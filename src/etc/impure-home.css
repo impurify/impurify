@@ -1,0 +1,167 @@
+@import url("dutr.css");
+
+:root {
+	/*--sorg: #fffff0c0;*/
+	  --sorg: #f5f5dcc0;
+}
+
+@font-face {
+	font-family: "Garamond";
+	src: url("fonts/g0/EBGaramond-Medium.subset.woff2");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Garamond";
+	src: url("fonts/g0/EBGaramond-MediumItalic.subset.woff2");
+	font-style: italic;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Garamond";
+	src: url("fonts/g0/EBGaramond-SemiBold.subset.woff2");
+	font-style: normal;
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: "Garamond";
+	src: url("fonts/g0/EBGaramond-SemiBoldItalic.subset.woff2");
+	font-style: italic;
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: "Garamond";
+	src: url("fonts/g0/EBGaramond-ExtraBold.subset.woff2");
+	font-style: normal;
+	font-weight: 900;
+}
+
+@font-face {
+	font-family: "Garamond";
+	src: url("fonts/g0/EBGaramond-ExtraBoldItalic.subset.woff2");
+	font-style: italic;
+	font-weight: 900;
+}
+
+body {
+	font-family: "Garamond", serif;
+}
+
+/* i.html */
+.nm {
+	display: grid;
+	justify-content: center;
+	align-content: center;
+}
+
+.nm > .name, .nm > .motto, .nm > .subtit,
+	header.nm > h1, header.nm > h2,
+	.in-nm > h2, .in-nm > h3 {
+	display: block;
+	text-align: center;
+}
+
+.nm > .punct {
+	display: none;
+}
+
+.nm > .subtit {
+	font-style: italic;
+	font-size: 80%;
+}
+
+header.nm > h1, header.nm > h1 + h2 {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+header.nm > h1 + h2 {
+	text-transform: uppercase;
+	font-weight: normal;
+	font-size: 100%;
+	letter-spacing: 0.05em;
+}
+header.nm .dot {
+	color: #888;
+	display: inline-block;
+	position: relative;
+	top: -0.01em;
+}
+/* end */
+
+.nm > h1 {
+	font-size: 6.66rem;
+}
+
+header.nm > h1 + h2, .in-nm > h2 {
+	font-weight: bold;
+	text-transform: none;
+	font-style: italic;
+}
+
+header.nm > h1 + h2 + h3, .in-nm > h2 + h3 {
+	text-transform: uppercase;
+	font-weight: normal;
+	font-size: 88%;
+	letter-spacing: 0.05em;
+	text-align: center;
+}
+
+/* adapted from doorway/impurify */
+
+body {
+	background-image: url("impurify-golora-refocused.avif");
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+
+	background-color: #bb8d82 /* #ab5766 */;
+	display: grid;
+	justify-content: center;
+	align-content: center;
+}
+
+main, .in-nm, footer {
+	max-width: 40em;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 2em;
+	border-radius: 1em;
+	/*background-color: #f0ccc360;*/
+	/*background-color: #f0ccc3c0;*/
+	  background-color: var(--sorg);
+	text-align: justify;
+}
+
+.in-nm {
+	padding: 0.666rem;
+	margin-top: 0.5rem;
+	margin-bottom: 1rem;
+}
+
+.in-nm > h2 {
+	margin: 0;
+	font-weight: normal;
+}
+
+.at-at:after {
+	padding: 0 0.18em;
+}
+
+a.nm.nmln {
+	text-decoration: none;
+}
+
+a.nm.nmln:hover {
+	text-decoration: underline;
+	background: yellow;
+}
+
+footer {
+	background-color: var(--sorg) /* #bb8d82c0 */;
+	padding: 0 2em;
+	margin-top: 2em;
+}
