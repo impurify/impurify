@@ -1,0 +1,77 @@
+<header class="nm">
+<h1><a href="https://impurify.com/" class="impurify"><em>impurify</em></a></h1>
+<div class="in-nm">
+<h2>“The Antidote to Purity Culture™.”</h2>
+<h3>impurify<span class="dot">.</span>com</h3>
+</div>
+</header>
+
+<!--#main#--><!--#article#-->
+Hi, I’m impurify—for *I impurify*.  Welcome to my future ~~Ivory Tower~~ Obsidian Tower, library, and studio, my authorial and artistic brand site, and my intended flagship for a planned fleet of websites.
+
+I’ve had substantial, beneficial control of the domain name <strong class="smallcap">IMPURIFY.COM</strong> since January 9–10, 2025—to be precise, since its registry birthtime of <time datetime="2025-01-10T02:28:19Z">`2025-01-10T02:28:19Z`</time>.  At that moment, it became the first *simple* single dictionary-word *dot-com* domain name that I’d owned since I lost one years ago.  It was a huge moment for me!  I’d already started to use the name “impurify”—and I was so excited to get the dot-com of it, I created the above <abbr title="Cascading Style Sheets" class="smallcap">CSS</abbr>-animated signature logotype on January 22, 2025.  This current site design is based on draft webdesign work I did in January 2025 for an <strong class="smallcap">IMPURIFY.COM</strong> homepage.[^llm-hindrance]
+
+[^llm-hindrance]: Ironically, per what I have publicly stated before, one of *several* major factors that’s delayed my publishing anything here is my fruitless quest for an adequate defense against <abbr title="Large Language Model" class="smallcap">LLM</abbr> training scrapers.  First, the <abbr title="Large Language Model" class="smallcap">LLM</abbr>s chilled my speech with the fear that my words will nigh inevitably be [plagiarized][copyright-v-plagiarism]; then, their existence has been leveraged maliciously to dehumanize me.  *Ceterum censeo <abbr title="Large Language Model" class="smallcap">LLM</abbr>s esse delenda.*
+
+[copyright-v-plagiarism]: https://dirtundertherug.com/copyright/plagiarism.html "impurify (2026-09-23). “Copyright versus Plagiarism: Know the difference for a freer culture, a better public discourse—and a more effective fight against ‘AI’.”. *Dirt Under the Rug*."
+
+This name is precious to me.  Accordingly, I have reserved the domain name <strong class="smallcap">IMPURIFY.COM</strong> for my *magnum opus*.  Impure though it may be, I don’t want to sully <strong class="smallcap">IMPURIFY.COM</strong> with [silly net.nonsense][masnick]—much less with the factually false and defamatory lies of an anonymous troll.
+
+[masnick]: https://dirtundertherug.com/aaron-swartz/techdirt-suppressed-ai-discussion/mike-masnick-says-i-am-the-dumbest.html "Mike Masnick says I’m “the dumbest” (2026-09-13)."
+
+[quasi-affidavit]: https://dirtundertherug.com/ai/quasi-affidavit.html "(Unpublished) Quasi-Affidavit"
+
+Thus, while I’m technically kicking around in the dirt, please see what I call “my Internet junk drawer”—in which *I am:*
+
+<a class="nm nmln" href="https://dirtundertherug.com/"><strong class="name"><em>Dirt Under the Rug</em></strong><span class="punct"><br /></span><span class="motto"><code>dirtundertherug.com</code></span></a>
+
+Or if you’re human and you want to talk to a human, write a letter to <em><strong class="nobreak">me<span class="at-at"><em> at domain </em></span>impurify.com</strong></em><b><i>,</i></b> [LibrePGP `0x666BE6DF7F1093CD`][pgpkey].[^fuck]
+
+[pgpkey]: etc/impurify-pgp.asc "666BE6DF7F1093CD63B70098B86558BA27ECE4EC970F9805180192061D8DED96"
+
+[^fuck]: Or if you prefer, <em><strong class="nobreak">fuck<span class="at-at"><em> at domain </em></span>impurify.com</strong></em>.  It works.  Same <abbr title="Pretty Good Privacy" class="smallcap">PGP</abbr> key.  The only problem is that then, I need to explain that it’s not necessarily a literal suggestion, but rather, a concise disquisition on the discursive destigmatiziation of the word *fuck*.  *Cf.* [the “Another Look” webpage for][another-look-secdef] Neal Koblitz and Alfred Menezes (2013), “Another look at security definitions”, *Advances in Mathematics of Communications* **2013, 7**(1):1–38, [doi:10.3934/amc.2013.7.1](https://doi.org/10.3934/amc.2013.7.1) ([Eprint 2011/343](https://eprint.iacr.org/2011/343)).  The webpage solemnly makes a priority claim:  “To the best of our knowledge, it is the first published paper in cryptography to use the ‘f’ word (three times).”  However, it gives informal priority to Nadia Heninger, Zakir Durumeric, Eric Wustrow, and J. Alex Halderman (2012) for [“fuck” in a rump session][fuck-rump].  Given that I aspire to become a pornographer much as a cryptographer, to impurify this learned discourse is most congenial to me.
+
+[another-look-secdef]: "https://www.math.uwaterloo.ca/~ajmeneze/anotherlook/definitions.shtml "Neal Koblitz and Alfred Menezes (2013), “Another look at security definitions” (academic webpage)."
+
+[fuck-rump]: https://crypto.2012.rump.cr.yp.to/87d4905b6d2fbc6ad2389debb73f7035.pdf "Nadia Heninger, Zakir Durumeric, Eric Wustrow, and J. Alex Halderman (2012). “The case of the RSA FUCK-A-DUCK certificate”. Crypto 2012 Rump Session." { type="application/pdf" }
+
+<div class="fancybreak"><span></span><span></span><hr /></div>
+
+## Colophon { #colophon }
+
+The background image, *Golora Refocused* (2019, 2026), is my derivative work, based on a public domain image from Wikimedia Commons:  [Charles W. Gilhousen (1915), *Golora*][golora].  I substantially made this derivative in 2019, for a different intended website; to obtain the right focus took some thought, and a nontrivial [ImageMagick][imagemagick] script.  It hereby substitutes for another image in the <strong class="smallcap">IMPURIFY.COM</strong> homepage that I mocked up in January 2025.  Well, see?  *I impurify.*
+
+[golora]: https://commons.wikimedia.org/wiki/File:Gilhousen_Golora.jpg "Wikimedia Commons: Charles W. Gilhousen (1915), *Golora*."
+
+[imagemagick]: https://legacy.imagemagick.org/ "ImageMagick 6 (Legacy)"
+
+My *impurify* signature logotype is my derivative work, based on [Calligra][calligra].  It’s so much more elegant than my own handwriting!
+
+[calligra]: https://tug.org/FontCatalogue/calligra/ "Calligra in the LaTeX Font Catalogue."
+
+This temporary doorway page is built with 
+[`git`][git] (with [GnuPG][gnupg] for signed commits), a very small [Bourne shell][bourne] script, [`bmake`][bmake], [`lowdown`][lowdown], and for maths with no JavaScript required on the client, a custom [\\( \htmlClass{nobreak}{\KaTeX} \\)][katex] rendering tool that I made myself using [QuickJS][quickjs].  In my opinionated opinion, to typeset maths is a *core competency* and a *minimal baseline feature* for any publishing system, period.
+
+[git]: https://git-scm.com/ "Git."
+
+[gnupg]: https://gnupg.org/ "GnuPG (GPG), the GNU Privacy Guard."
+
+[bourne]: https://en.wikipedia.org/wiki/Bourne_shell "*Wikipedia:* “Bourne shell”."
+
+[bmake]: https://crufty.net/help/sjg/bmake.html "bmake (BSD Make), by sjg@crufty.net."
+
+[lowdown]: https://kristaps.bsd.lv/lowdown/ "lowdown, by Kristaps Dzonsons (descended from libupskirt, by Natacha Porté)."
+
+[katex]: https://katex.org/ "KaTeX, by Emily Eisenberg and Sophie Alpert."
+
+[quickjs]: https://bellard.org/quickjs/ "QuickJS, by Fabrice Bellard and Charlie Gordon."
+
+The text is lovingly set in [EB Garamond][ebgaramond].  Alas, \\( \htmlClass{nobreak}{\KaTeX} \\) will need some hacking to make it use EB Garamond Math; thus, “\\( e^{\htmlClass{scarlet}{i}\pi} + 1 = 0 \\)” has a typographic clash—as does “\\( \htmlClass{nobreak}{\KaTeX} \\)”.  And alack!  Whilst researching so-called “artificial intelligence”, I learned that [the Garamond font was actually designed by Matthew Butterick][artificial-stupidity].[^garamond-conspiracy]
+
+[ebgaramond]: https://github.com/octaviopardo/EBGaramond12 "EB Garamond, by Georg Duffner and Octavio Pardo."
+
+[artificial-stupidity]: https://matthewbutterick.com/chron/i-for-one-welcome-our-garamond-loving-ai-overlords.html "Matthew Butterick (2022-02-12). “I, for one, welcome our Garamond-loving AI overlords”."
+
+[^garamond-conspiracy]: My pet conspiracy theory of the day:  ChatGPT’s reward algorithm was designed to “hate” and to “fear” any name that sounds like [*Claude* Garamond][claude-garamond].
+
+[claude-garamond]: https://en.wikipedia.org/wiki/Claude_Garamond "*Wikipedia:* “Claude Garamond”."
