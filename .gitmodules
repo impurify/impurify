@@ -2,7 +2,3 @@
 	path = dutr
 	url = https://github.com/dirtundertherug/dirtundertherug.github.io
 	branch = master
-[submodule "nails"]
-	path = nails
-	url = https://github.com/impurify/likenails
-	branch = pub
