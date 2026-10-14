@@ -3,6 +3,8 @@
 <div class="in-nm">
 <h2>“The Antidote to Purity Culture™.”</h2>
 <h3>impurify<span class="dot">.</span>com</h3>
+<audio style="display: block; margin-left: auto; margin-right: auto;" type="audio/opus" src="music/paganini-goldstein-lalo-clip1.opus" controls="controls" autoplay="autoplay"></audio>
+<!-- loop="loop" -->
 </div>
 </header>
 
@@ -75,3 +77,18 @@ The text is lovingly set in [EB Garamond][ebgaramond].  Alas, \\( \htmlClass{nob
 [^garamond-conspiracy]: My pet conspiracy theory of the day:  ChatGPT’s reward algorithm was designed to “hate” and to “fear” any name that sounds like [*Claude* Garamond][claude-garamond].
 
 [claude-garamond]: https://en.wikipedia.org/wiki/Claude_Garamond "*Wikipedia:* “Claude Garamond”."
+
+The leitmotif is a clip from Paganini’s Caprice No.&nbsp;24—played *on a viola* by [Elias Goldstein][eliasgoldstein]; I obtained the public domain source file [from Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=File:Paganini_Caprice-24.ogg&oldid=897621751).  But I am [still searching for][timewaste] a suitable recording of *this:*
+
+[eliasgoldstein]: https://eliasgoldstein.com/ "Elias Goldstein, Violist"
+
+[timewaste]: https://dirtundertherug.com/copyright/wastes-human-lifetime-impairs-creativity.html "impurify (embargoed draft)."
+
+<img src="etc/scarlet10.png" style="
+	display: block;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	border: 0.0666rem solid #ff3300;
+	border-radius: 0.666rem;
+"/>
