@@ -1,4 +1,4 @@
-Get in touch:
+My points of contact:
 
 * **WWW:**  [impurify.com](https://impurify.com/), among others.
 * **Preferred key, LibrePGP** with hybrid post-quantum encryption subkey; requires [GnuPG @^2.5.1](https://lists.gnupg.org/pipermail/gnupg-announce/2024q3/000485.html):\
