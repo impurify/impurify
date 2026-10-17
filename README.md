@@ -7,6 +7,7 @@ My points of contact:
 * **Deprecated signing-only OpenPGP key;** use this to verify my commits.  I PGP-sign all `git` commits, but Github does not yet support LibrePGP:\
 [`02AD AF4C 9F1D C35C 8FF1  28D8 0D6F 41CD 0B6A A57F`](https://raw.githubusercontent.com/impurify/impurify/master/pgp/have-anonymous-sex.asc)\
 All of my ECC-only encryption keys have expired.  This is a feature, not a bug.  Use the above LibrePGP key to communicate with me privately.
+* Not on social media.
 * ~~Does not use Microsoft Github.~~  *So much for my moral purity.*
 
 * * *
