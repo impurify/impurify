@@ -1,3 +1,5 @@
+# [![impurify](img/impurify-480-banner.png)](https://impurify.com/)
+
 My points of contact:
 
 * **WWW:**  [impurify.com](https://impurify.com/), among others.
