@@ -2,7 +2,7 @@
 
 My points of contact:
 
-* **WWW:**  [impurify.com](https://impurify.com/), among others.
+* **Website:**  [impurify.com](https://impurify.com/), among others.
 * **Preferred key, [LibrePGP](https://librepgp.org/)** with hybrid post-quantum encryption subkey; requires [GnuPG @^2.5.1](https://lists.gnupg.org/pipermail/gnupg-announce/2024q3/000485.html):\
 [`666BE 6DF7F 1093C D63B7 0098B 86558 BA27E CE4EC 970F9 80518`](https://impurify.com/etc/impurify-pgp.asc)\
 *Cross-signed with my old key, which is still valid.*
