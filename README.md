@@ -1,11 +1,11 @@
 Get in touch:
 
+* **WWW:**  [impurify.com](https://impurify.com/), among others.
 * **Preferred key, LibrePGP** with hybrid post-quantum encryption subkey; requires [GnuPG @^2.5.1](https://lists.gnupg.org/pipermail/gnupg-announce/2024q3/000485.html):\
 [`666BE 6DF7F 1093C D63B7 0098B 86558 BA27E CE4EC 970F9 80518`](https://impurify.com/etc/impurify-pgp.asc)\
 *Cross-signed with my old key, which is still valid.*
 * **Deprecated key** (used to sign commits that need current Github compatibility, just like this repository’s use of SHA1 commit hashes):\
 [`02AD AF4C 9F1D C35C 8FF1  28D8 0D6F 41CD 0B6A A57F`](https://raw.githubusercontent.com/impurify/impurify/master/pgp/have-anonymous-sex.asc)
-* **WWW:**  [impurify.com](https://impurify.com/), among others.
 * ~~Does not use Microsoft Github.~~  *So much for my moral purity.*
 
 * * *
