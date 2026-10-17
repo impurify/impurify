@@ -1,4 +1,4 @@
-# [![impurify](img/impurify-480-banner.png)](https://impurify.com/)
+# [![impurify](img/impurify-276-banner.png)](https://impurify.com/)
 
 My points of contact:
 
